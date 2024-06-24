@@ -1,0 +1,2 @@
+../Core/Src/flash.c:11:6:Flash_Write_Temperature	3
+../Core/Src/flash.c:44:10:Flash_Read_Temperature	2

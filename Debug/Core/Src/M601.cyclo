@@ -1,0 +1,9 @@
+../Core/Src/M601.c:38:6:M601_init	1
+../Core/Src/M601.c:59:6:M601_reset	1
+../Core/Src/M601.c:76:9:M601_check	7
+../Core/Src/M601.c:104:6:M601_write_bit	2
+../Core/Src/M601.c:130:6:M601_write_byte	3
+../Core/Src/M601.c:159:9:M601_read_bit	2
+../Core/Src/M601.c:178:9:M601_read_byte	2
+../Core/Src/M601.c:195:6:M601_start	1
+../Core/Src/M601.c:210:7:GetTemp	1
